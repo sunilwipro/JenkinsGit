@@ -1,0 +1,13 @@
+ Volume in drive E is Data Drive
+ Volume Serial Number is DA77-B75B
+
+ Directory of E:\Jenkins\JavaPro
+
+11/27/2017  01:55 AM    <DIR>          .
+11/27/2017  01:55 AM    <DIR>          ..
+11/27/2017  01:52 AM               662 Ex.class
+11/27/2017  01:32 AM               199 Ex.java
+11/27/2017  01:55 AM                 0 justmiss.txt
+11/27/2017  01:48 AM               441 readme.txt
+               4 File(s)          1,302 bytes
+               2 Dir(s)  113,955,934,208 bytes free
